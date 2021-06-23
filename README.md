@@ -21,5 +21,5 @@ A passionate Software Engineer from Kenya.
 
 <br />
 <img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarltonK&layout=compact&theme=material-palenight" />
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarltonK&langs_count=10&layout=compact&theme=material-palenight" />
 </a>
