@@ -15,7 +15,7 @@ A passionate Software Engineer from Kenya.
 
 <br />
 <img align="center"
-    src="https://github-readme-stats.vercel.app/api?username=CarltonK&show_icons=true&include_all_commits=true&theme=material-palenight"
+    src="https://github-readme-stats.vercel.app/api?username=CarltonK&count_private=true&show_icons=true&include_all_commits=true&theme=material-palenight"
     alt="My Github Stats" />
 </a>
 
