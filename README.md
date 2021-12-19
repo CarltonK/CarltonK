@@ -25,3 +25,13 @@ A passionate Software Engineer from Kenya.
 <img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarltonK&langs_count=10&layout=compact&theme=material-palenight" />
 </a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarltonK)](https://github.com/anuraghazra/github-readme-stats)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=CarltonK)  
+
+![GitHub metrics](https://metrics.lecoq.io/CarltonK)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=CarltonK)  
+
+![Profile views](https://gpvc.arturio.dev/CarltonK) 
