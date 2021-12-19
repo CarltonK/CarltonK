@@ -28,8 +28,6 @@ A passionate Software Engineer from Kenya.
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=CarltonK)  
 
-![GitHub metrics](https://metrics.lecoq.io/CarltonK)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=CarltonK)  
 
 ![Profile views](https://gpvc.arturio.dev/CarltonK) 
