@@ -3,7 +3,7 @@
 <br />
 
 A passionate Software Engineer from Kenya.
-- 🔭 I'm currently focusing on Flutter, Firebase, GCP and everything in between
+- 🔭 I'm currently focusing on GCP, Firebase, NodeJS, Flutter and everything in between
 - 🌱 I'm currently learning Infrastructure Automation using Terraform and Site Reliability Engineering
 - 💬 Ask me about anything [here](https://github.com/CarltonK/CarltonK/issues)
 <br />
