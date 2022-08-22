@@ -1,6 +1,5 @@
 ### Hi there, I'm Mark 👋
 <br />
-<br />
 
 A passionate Software Engineer from Kenya.
 - 🔭 I'm currently focusing on GCP, Firebase, NodeJS, Flutter and everything in between
