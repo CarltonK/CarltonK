@@ -27,8 +27,6 @@ A passionate Software Engineer from Kenya.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CarltonK" alt="CarltonK" /></a> </p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=CarltonK)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=CarltonK)  
 
 ![Profile views](https://gpvc.arturio.dev/CarltonK) 
