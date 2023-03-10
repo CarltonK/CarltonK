@@ -15,7 +15,7 @@ A passionate Software Engineer from Kenya.
 <code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/bash.png"></code>
 
 <br />
-<!-- <img align="center"
+<img align="center"
     src="https://github-readme-stats.vercel.app/api?username=CarltonK&count_private=true&show_icons=true&include_all_commits=true&theme=material-palenight"
     alt="My Github Stats" />
 </a>
@@ -23,7 +23,9 @@ A passionate Software Engineer from Kenya.
 <br />
 <img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarltonK&langs_count=10&layout=compact&theme=material-palenight" />
-</a> -->
+</a>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CarltonK" alt="CarltonK" /></a> </p>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=CarltonK)  
 
