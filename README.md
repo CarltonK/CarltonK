@@ -1,4 +1,4 @@
-### Hi there, I'm Mark Carlton 👋
+### Hi there, I'm Mark 👋
 <br />
 
 A passionate Software Engineer from Kenya.
