@@ -23,6 +23,7 @@ A passionate Software Engineer from Kenya.
 <img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarltonK&langs_count=10&layout=compact&theme=material-palenight" />
 </a>
+<br />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CarltonK" alt="CarltonK" /></a> </p>
 
