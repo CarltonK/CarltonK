@@ -1,7 +1,7 @@
 ### Hi there, I'm Mark 👋
 <br />
 
-A passionate Software Engineer from Kenya.
+A passionate (Literally, I can do this all day) Software Engineer from Kenya.
 - 🔭 I'm currently focusing on Google Cloud Platform, Firebase, NodeJS, Infrastructure Automation using Terraform and Ansible and mobile development with Flutter
 - 🌱 I'm currently learning Site Reliability Engineering
 - 💬 Ask me about anything [here](https://github.com/CarltonK/CarltonK/issues)
