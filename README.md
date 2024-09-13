@@ -1,6 +1,5 @@
 ### Hi there, I'm Mark 👋
 <br />
-
 A passionate (Literally, I can do this all day) Software Engineer from Kenya.
 - 🔭 I'm currently focusing on the cloud (GCP preferred) and automating that (Terraform preferred).
 - 🔭 NodeJS has been my mainstay for the last 5 years.
