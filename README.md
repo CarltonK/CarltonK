@@ -29,5 +29,7 @@ A passionate (Literally, I can do this all day) Software Engineer from Kenya.
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=CarltonK)  
 
 <!-- ![Profile views](https://gpvc.arturio.dev/CarltonK) -->
+[![Profile views](https://u8views.com/api/v1/github/profiles/15627476/views/day-week-month-total-count.svg)](https://u8views.com/github/CarltonK)
+[![Profile views V2]](https://u8views.com/github/CarltonK)
 
 [![committers.top badge](https://user-badge.committers.top/kenya_private/CarltonK.svg)](https://user-badge.committers.top/kenya_private/CarltonK)
